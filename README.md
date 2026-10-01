@@ -1,8 +1,8 @@
 # 🚀 FARIS JM — Personal Portfolio
 
-![Portfolio](https://img.shields.io/badge/Portfolio-FARIS%20JM-4f8cff?style=for-the-badge)
-![BSc IT](https://img.shields.io/badge/BSc%20IT-University%20of%20Vavuniya-00d4ff?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge)
+![Portfolio]
+![BSc IT]
+![Cybersecurity]
 
 ## 👋 About Me
 
