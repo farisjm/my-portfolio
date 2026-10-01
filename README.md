@@ -1,9 +1,5 @@
 # 🚀 FARIS JM — Personal Portfolio
 
-![Portfolio]
-![BSc IT]
-![Cybersecurity]
-
 ## 👋 About Me
 
 Hi, I'm **FARIS JM**, a BSc Information Technology student at the **University of Vavuniya, Sri Lanka**.
