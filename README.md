@@ -244,8 +244,8 @@ I’m interested in collaborating on:
 | Platform    | Profile                                                                                        |
 | ----------- | ---------------------------------------------------------------------------------------------- |
 | 🐙 GitHub   | [github.com/farisjm](https://github.com/farisjm)                                               |
-| 💼 LinkedIn | [linkedin.com/in/mohamed-faris-a9766239a](https://www.linkedin.com/in/mohamed-faris-a9766239a) |
-| 📧 Email    | [Faris.mjm2004@gmail.com](mailto:faris.mjm2004@gmail.com)                                      |
+| 💼 LinkedIn | [www.linkedin.com/in/farisjm](www.linkedin.com/in/farisjm) |
+| 📧 Email    | [faris.mjm2004@gmail.com](mailto:faris.mjm2004@gmail.com)                                      |
 | 💬 WhatsApp | [Chat on WhatsApp](https://wa.me/94701158076)                                                  |
 
 ---
