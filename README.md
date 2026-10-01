@@ -272,9 +272,9 @@ https://linkedin.com/in/mohamed-faris-a9766239a
 | Platform | Profile                                                   |
 | -------- | --------------------------------------------------------- |
 | GitHub   | github.com/farisjm                                        |
-| LinkedIn | linkedin.com/in/mohamed-faris-a9766239a                   |
+| LinkedIn | https://www.linkedin.com/in/farisjm                 |
 | Email    | [Faris.mjm2004@gmail.com](mailto:Faris.mjm2004@gmail.com) |
-| WhatsApp | 077 005 7031                                              |
+| WhatsApp | https://wa.me/+94701158076                                              |
 
 ---
 
