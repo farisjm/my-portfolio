@@ -1,69 +1,155 @@
-# 🚀 FARIS JM — Personal Portfolio
+# Hi, I'm FARIS JM 👋
 
-## 👋 About Me
+### BSc IT Undergraduate | Cybersecurity Enthusiast @ University of Vavuniya, Sri Lanka
 
-Hi, I'm **FARIS JM**, a BSc Information Technology student at the **University of Vavuniya, Sri Lanka**.
+I’m an Information Technology undergraduate interested in **Cybersecurity, Web Development, Cloud Computing, and emerging technologies**. I enjoy building practical software projects, learning how systems work, and continuously developing my technical skills through hands-on projects.
 
-I'm interested in:
+🎓 BSc Information Technology
+🔐 Cybersecurity Enthusiast
+💻 Web & Software Development
+☁️ Cloud Computing
+🤖 AI & Data Technologies
 
-* 🔐 Cybersecurity
-* ☁️ Cloud Computing
-* 💻 Web Development
-* 🤖 AI & Data Technologies
-* 🧠 Programming
-* 🌐 Modern IT Technologies
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/farisjm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-faris-a9766239a)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/94701158076)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Faris.mjm2004@gmail.com)
 
-My goal is to build practical projects, gain industry experience, and develop a professional career in **Cybersecurity and Cloud Computing**.
+---
+
+## 🧭 About Me
+
+* 🎓 Currently pursuing a **BSc in Information Technology** at the **University of Vavuniya, Sri Lanka**
+* 🔐 Strong interest in **Cybersecurity and Security Research**
+* 💻 Building projects using **HTML, CSS, JavaScript, PHP, Java, C, C++, and C#**
+* 🗄️ Learning and working with **MySQL and database systems**
+* 🌐 Interested in **Web Development and Networking**
+* ☁️ Exploring **Cloud Computing and modern IT infrastructure**
+* 🤖 Interested in **AI and Data Technologies**
+* 🛠️ Experienced with development tools such as **Visual Studio, VS Code, Git, and GitHub**
+* 📚 Continuously improving my programming, networking, database, and security knowledge
+* 🚀 Interested in building practical projects that solve real-world problems
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 JM PADDY — Paddy & Farmer Bill Management System
+
+A web-based management system designed to simplify **paddy purchasing, farmer management, billing, pricing, and reporting**.
+
+* 👨‍🌾 Farmer record management
+* 🧾 Paddy bill generation
+* 💰 Price management
+* 📊 Reports and statistics
+* 🔐 User authentication
+* 📱 Responsive interface
+* 📄 Bill management and history
+
+**Stack:** PHP • MySQL • HTML • CSS • JavaScript • Chart.js
+
+🔗 **GitHub:** [github.com/farisjm/jm-paddy](https://github.com/farisjm/jm-paddy)
+
+---
+
+### 🚗 Wagon R Hire — Vehicle Hire Website
+
+A responsive website created for a **Wagon R hire service**, including customer booking and WhatsApp contact functionality.
+
+* 🚘 Wedding Hire
+* ✈️ Airport Hire
+* 🇱🇰 All Sri Lanka Hire
+* 📱 WhatsApp booking
+* 📞 Direct contact
+* 📱 Responsive design
+
+**Stack:** HTML • CSS • JavaScript
+
+---
+
+### 💻 Personal Portfolio Website
+
+A personal portfolio website showcasing my:
+
+* 🎓 Education
+* 💻 Technical skills
+* 🚀 Projects
+* 🔐 Cybersecurity interests
+* 📜 Certifications
+* 📞 Contact information
+
+**Stack:** HTML • CSS • JavaScript • PHP
+
+---
+
+## 🔐 Cybersecurity Interests
+
+I am particularly interested in developing my knowledge in:
+
+* 🔒 Cybersecurity
+* 🌐 Network Security
+* 🛡️ Information Security
+* 🔍 Security Research
+* 🧪 Ethical Hacking
+* 🔐 Authentication & Access Control
+* 🌍 Web Security
+* ☁️ Cloud Security
+* 🖥️ Network Monitoring
+* 🚨 Threat Detection
+
+---
+
+## 🛠️ Languages & Technologies
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
 
 ---
 
 ## 🎓 Education
 
-**BSc Information Technology**
-University of Vavuniya, Sri Lanka
+### BSc in Information Technology
 
-**Current Status:** 2nd Year Undergraduate
+**University of Vavuniya, Sri Lanka**
 
----
+Currently pursuing my undergraduate degree in Information Technology.
 
-## 🛠️ Skills
+Areas covered include:
 
-### Programming & Web
-
-* HTML5
-* CSS3
-* JavaScript
-* PHP
-* Java
-* C++
-* C#
-
-### Database
-
-* MySQL
-* MariaDB
-
-### Tools
-
-* Visual Studio Code
-* Visual Studio
-* XAMPP
-* Git
-* GitHub
-
-### Cybersecurity
-
-* Cybersecurity Fundamentals
-* Web Security
-* Security Labs
-* Networking Fundamentals
-* Linux Fundamentals
-
-### Other Interests
-
-* Cloud Computing
-* AI Tools
-* Data Technologies
+* Programming
+* Object-Oriented Programming
+* Data Structures
+* Database Management Systems
+* Computer Networks
+* Software Engineering
+* Web Programming
+* Visual Programming
+* Computer Graphics
+* Mathematics for Computing
 
 ---
 
@@ -71,289 +157,107 @@ University of Vavuniya, Sri Lanka
 
 ### Google Cybersecurity Professional Certificate
 
-Completed professional learning focused on cybersecurity fundamentals, security concepts, tools and practical security knowledge.
+Completed cybersecurity-focused learning covering areas such as:
 
----
-
-## 💻 Projects
-
-### 🌾 JM PADDY
-
-**Paddy & Farmer Bill Management System**
-
-A web-based system designed to manage:
-
-* Farmer information
-* Paddy bills
-* Paddy prices
-* Bill history
-* Reports
-* Calculations
-* Dashboard
-
-**Technologies:**
-
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
----
-
-### 🚗 Wagon R Hire
-
-A responsive vehicle hire website with WhatsApp booking functionality.
-
-**Features:**
-
-* Wedding Hire
-* Airport Hire
-* All Sri Lanka Hire
-* WhatsApp booking
-* Mobile responsive design
-
-**Technologies:**
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### 🔐 Cybersecurity Lab
-
-A collection of cybersecurity learning projects and practical exercises focused on:
-
-* Web security
-* Networking
+* Cybersecurity fundamentals
+* Security operations
+* Network security
 * Linux
-* Security fundamentals
-* Ethical cybersecurity learning
+* SQL
+* Python
+* Security frameworks
+* Incident response concepts
 
 ---
 
-### 💻 Personal Portfolio
+## 💡 What I'm Learning
 
-This portfolio website showcases my:
-
-* Education
-* Skills
-* Projects
-* Certifications
-* Career interests
-* Contact information
-
-**Technologies:**
-
-`HTML` `CSS` `JavaScript`
-
----
-
-## ✨ Portfolio Features
-
-* ✅ Responsive design
-* ✅ Mobile-friendly navigation
-* ✅ Dark / Light mode
-* ✅ Smooth scrolling
-* ✅ Skills section
-* ✅ Project showcase
-* ✅ Certification section
-* ✅ GitHub integration
-* ✅ LinkedIn integration
-* ✅ Email contact
-* ✅ WhatsApp contact
-* ✅ CV download
-* ✅ WhatsApp contact form
-* ✅ Back-to-top button
-* ✅ No database required
-
----
-
-## 📂 Project Structure
+Currently improving my knowledge in:
 
 ```text
-faris-portfolio/
-│
-├── index.html
-├── profile.jpg
-│
-├── assets/
-│   └── FARIS_CV.pdf
-│
-└── README.md
+Cybersecurity
+     ↓
+Network Security
+     ↓
+Web Security
+     ↓
+Cloud Security
+     ↓
+Security Research
 ```
 
----
+Alongside cybersecurity, I continue developing my skills in:
 
-## ⚙️ How to Run
-
-### Method 1 — Direct Browser
-
-Simply open:
-
-```text
-index.html
-```
-
-in your web browser.
-
-### Method 2 — XAMPP
-
-Copy the project folder to:
-
-```text
-C:\xampp\htdocs\faris-portfolio\
-```
-
-Start **Apache** from XAMPP.
-
-Then open:
-
-```text
-http://localhost/faris-portfolio/
-```
-
-> MySQL is not required for this version of the portfolio.
+* Full-stack web development
+* Database design
+* Networking
+* Cloud technologies
+* AI-assisted development
+* Data technologies
 
 ---
 
-## 🖼️ Add Your Profile Photo
+## 📊 GitHub Stats
 
-Place your photo in the main project folder:
+![FARIS JM GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisjm\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-```text
-faris-portfolio/
-└── profile.jpg
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisjm\&layout=compact\&theme=tokyonight\&hide_border=true)
 
-The portfolio automatically displays:
-
-```text
-profile.jpg
-```
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farisjm\&theme=tokyonight\&hide_border=true)
 
 ---
 
-## 📄 Add Your CV
+## 🎯 Career Interests
 
-Place your CV inside:
+I’m working toward a career in the intersection of:
 
-```text
-assets/FARIS_CV.pdf
-```
+**🔐 Cybersecurity + ☁️ Cloud + 🤖 AI/Data**
 
-The **Download CV** button will then download your CV.
+My long-term interests include:
 
----
-
-## 📱 Contact
-
-### FARIS JM
-
-📧 **Email**
-
-[Faris.mjm2004@gmail.com](mailto:Faris.mjm2004@gmail.com)
-
-💬 **WhatsApp**
-
-077 005 7031
-
-💻 **GitHub**
-
-https://github.com/farisjm
-
-🔗 **LinkedIn**
-
-https://linkedin.com/in/mohamed-faris-a9766239a
+* Cybersecurity Research
+* Security Engineering
+* Cloud Security
+* Network Security
+* Threat Detection
+* Security Automation
+* Security Research
 
 ---
 
-## 🌐 Social Links
+## 🤝 Collaboration
 
-| Platform | Profile                                                   |
-| -------- | --------------------------------------------------------- |
-| GitHub   | github.com/farisjm                                        |
-| LinkedIn | https://www.linkedin.com/in/farisjm                 |
-| Email    | [Faris.mjm2004@gmail.com](mailto:Faris.mjm2004@gmail.com) |
-| WhatsApp | https://wa.me/+94701158076                                              |
+I’m interested in collaborating on:
 
----
-
-## 🎯 Career Goal
-
-> **Cybersecurity + Cloud + AI/Data Basics**
-
-I am continuously developing my technical skills through university studies, certifications, practical projects and self-learning.
+* 🔐 Cybersecurity projects
+* 🌐 Web applications
+* 💻 Software development
+* ☁️ Cloud projects
+* 🛡️ Security research
+* 🎓 Student/academic projects
+* 🚀 Open-source projects
 
 ---
 
-## 🚀 Future Improvements
+## 📫 Contact Me
 
-Planned improvements include:
-
-* [ ] Backend contact system
-* [ ] Project database
-* [ ] Admin dashboard
-* [ ] Blog section
-* [ ] Cybersecurity project laboratory
-* [ ] Cloud deployment
-* [ ] Online CV
-* [ ] More professional animations
-* [ ] Project live demos
-* [ ] GitHub API integration
+| Platform    | Profile                                                                                        |
+| ----------- | ---------------------------------------------------------------------------------------------- |
+| 🐙 GitHub   | [github.com/farisjm](https://github.com/farisjm)                                               |
+| 💼 LinkedIn | [linkedin.com/in/mohamed-faris-a9766239a](https://www.linkedin.com/in/mohamed-faris-a9766239a) |
+| 📧 Email    | [Faris.mjm2004@gmail.com](mailto:faris.mjm2004@gmail.com)                                      |
+| 💬 WhatsApp | [Chat on WhatsApp](https://wa.me/94701158076)                                                  |
 
 ---
 
-## 📸 Portfolio Preview
+## 🧠 My Philosophy
 
-Add a screenshot of your portfolio here:
+> **Learn. Build. Secure. Repeat.**
 
-```markdown
-![Portfolio Screenshot](screenshot.png)
-```
-
-Place the screenshot in:
-
-```text
-faris-portfolio/
-└── screenshot.png
-```
+> 🧠 Logic • 💻 Code • 🔐 Security • 🌍 Freedom
 
 ---
 
-## 🔒 Privacy
+⭐ **Thanks for visiting my GitHub profile!**
 
-This portfolio does not intentionally collect or store personal information in a database.
-
-The contact form uses WhatsApp to send messages directly.
-
----
-
-## 👨‍💻 Developer
-
-**FARIS JM**
-
-BSc Information Technology Student
-University of Vavuniya 🇱🇰
-
-**Focus:** Cybersecurity 🔐
-
-**Interests:**
-Cybersecurity • Cloud • Web • AI • Programming
-
----
-
-## ⭐ Support
-
-If you find this project useful, you can support the project by giving it a ⭐ on GitHub.
-
----
-
-## 📜 License
-
-This project is created for personal, educational and portfolio purposes.
-
-© 2026 **FARIS JM** — All Rights Reserved.
-
----
-
-### 🔐 Built with curiosity.
-
-### 💻 Powered by code.
-
-### 🚀 Driven by technology.
+**— FARIS JM**
